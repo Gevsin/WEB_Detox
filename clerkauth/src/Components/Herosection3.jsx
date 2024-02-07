@@ -1,4 +1,4 @@
-import '../CSS/HeroSection3.css';
+import '../CSS/Herosection3.css';
 
 
 const HeroSection3 = () => {

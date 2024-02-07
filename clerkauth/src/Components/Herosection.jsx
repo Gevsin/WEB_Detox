@@ -1,4 +1,4 @@
-import '../CSS/HeroSection.css';
+import '../CSS/Herosection.css';
 import { SignInButton } from '@clerk/clerk-react';
 
 const HeroSection = () => {
