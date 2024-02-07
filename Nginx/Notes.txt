@@ -1,0 +1,9 @@
+# in nginx conf are comments 
+
+- nginx -s reload : This command is used for reloading of the nginx server 
+
+- For Vim editor in linux for quitting page do :wq to quit from page and i for inseting information in page . 
+
+- nginx -t : This will Check the Syntax of the nginx.conf file . 
+
+- When we render files other than index.html in nginx then it consider that files as plain text but if we want that file contents to be there then we have to write types{} in nginx server.
