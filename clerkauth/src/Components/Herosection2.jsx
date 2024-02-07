@@ -1,4 +1,4 @@
-import '../CSS/HeroSection.css';
+import '../CSS/Herosection.css';
 import { useUser } from '@clerk/clerk-react';
 import { Link } from 'react-router-dom';
 import confetti from 'canvas-confetti';
