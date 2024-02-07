@@ -7,3 +7,16 @@
 - nginx -t : This will Check the Syntax of the nginx.conf file . 
 
 - When we render files other than index.html in nginx then it consider that files as plain text but if we want that file contents to be there then we have to write types{} in nginx server.
+
+- Deployement of Web With Nginx and Aws EC2
+For Deployement 
+- Create EC2 Instance 
+- Then Bring Instance in local machine 
+- install NodeJS on virtual Machine 
+- Git clone Repo_URL 
+- Npm install 
+- Install PM2 and run main file
+- Apply Domain Name to IP Address
+- Apply Proxy to NGINX Server File
+- Apply SSL with Piyush garg Commands
+- After Use and Domain Allocation Shut Down the EC2 or you will be charged Rupees from AWS
