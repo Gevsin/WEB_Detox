@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@taquito/taquito": "^19.0.1",
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
     "create-react-app": "^5.0.1",
