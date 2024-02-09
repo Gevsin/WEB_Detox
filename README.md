@@ -10,4 +10,4 @@
 ---------------
 
 # Taquito : 
-- The Taquito is kind of like ethersjs / Web3js  if we consider EVM and EVM based chains . 
+- The Taquito is kind of like ethersjs / Web3js  if we consider EVM and EVM based chains . It provides all functions and methods to interact with Tezos(It is NON-EVM) based blockchain . 
