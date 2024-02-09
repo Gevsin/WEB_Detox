@@ -13,3 +13,6 @@
 - The Taquito is kind of like ethersjs / Web3js  if we consider EVM and EVM based chains . It provides all functions and methods to interact with Tezos (It is NON-EVM based blockchain) . Taquito can be accessed with WSL and from linux terminal .  
 
 ---------------
+
+# TezosNFT : 
+- It is basically NFT based platform made with Tezos Blockchain and svelte kit and LIGO Language 
