@@ -10,4 +10,4 @@
 ---------------
 
 # Taquito : 
-- The Taquito is kind of like ethersjs if we consider EVM and EVM based chains . 
+- The Taquito is kind of like ethersjs / Web3js  if we consider EVM and EVM based chains . 
