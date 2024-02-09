@@ -8,3 +8,6 @@
 - Here is demo project with it : https://clerkauth-eight.vercel.app/
 
 ---------------
+
+# Taquito : 
+- The Taquito is kind of like hardhat and ethersjs if we talk about EVM chains whereas 
