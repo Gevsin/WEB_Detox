@@ -10,4 +10,4 @@
 ---------------
 
 # Taquito : 
-- The Taquito is kind of like hardhat and ethersjs if we talk about EVM chains whereas 
+- The Taquito is kind of like ethersjs if we consider EVM and EVM based chains . 
