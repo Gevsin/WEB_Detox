@@ -15,4 +15,5 @@
 ---------------
 
 # TezosNFT : 
-- It is basically NFT based platform made with Tezos Blockchain and svelte kit and LIGO Language 
+- It is basically NFT based platform made with Tezos Blockchain and svelte kit and LIGO Language
+https://tezosnft.vercel.app/ : Deployed code link 
